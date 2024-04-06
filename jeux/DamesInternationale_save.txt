@@ -1,0 +1,6 @@
+JoueuerAyantLeTour=1
+Vainqueur=-2
+Humain=0
+Pieces[Joueur 1]:
+Pion[m01Pion[m03Pion[m05Pion[m07Pion[m09Pion[m10Pion[m12Pion[m14Pion[m16Pion[m18Pion[m21Pion[m23Pion[m25Pion[m27Pion[m29Pion[m30Pion[m32Pion[m34Pion[m36Pion[m45Pieces[Joueur 2]:
+Pion[s61Pion[s63Pion[s65Pion[snullPion[snullPion[s70Pion[s72Pion[s74Pion[s76Pion[s78Pion[s81Pion[s83Pion[s85Pion[s87Pion[s89Pion[s90Pion[s92Pion[s94Pion[s96Pion[s98
